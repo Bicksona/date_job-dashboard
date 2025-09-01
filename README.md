@@ -19,7 +19,7 @@ The **Data Jobs Dashboard** analyzes various job titles in the data domain (Data
 
 ## 📷 Dashboard Preview
 ### Main Dashboard  
-![Main Dashboard](./Screenshot%202025-09-01%20194213.png)
+![Main Dashboard](./Data_Job_dashboard.png)
 
 ### Drill-Through (Data Engineer Example)  
 ![Drill Through](./Screenshot%202025-09-01%20194229.png)
