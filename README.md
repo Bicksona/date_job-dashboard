@@ -19,10 +19,10 @@ The **Data Jobs Dashboard** analyzes various job titles in the data domain (Data
 
 ## 📷 Dashboard Preview
 ### Main Dashboard  
-![Main Dashboard](./Data_Job_dashboard.png)
+![Main Dashboard](.Data_Job_dashboard.png)
 
 ### Drill-Through (Data Engineer Example)  
-![Drill Through](./Screenshot%202025-09-01%20194229.png)
+![Drill Through](.Drill_Through_dashboard.png)
 
 ---
 
